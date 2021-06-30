@@ -17,18 +17,18 @@ As seen below, the majority of the votes were cast in Denver County with 82.8%. 
 
 ![](Resources/county_results.PNG)
 
-There were three candidates in the audit, DeGette, Stockham, and Doan.  DeGette received the majority of the popular vote with 73.8% of the votes, or 272,892 votes.  The remaining two candidates only received a combined 26.1% of the votes.
+There were three candidates in the audit, DeGette, Stockham, and Doan.  DeGette received the majority of the popular vote with 73.8% of the votes, or 272,892 votes.  The remaining two candidates received a combined 26.1% of the votes.
 	
 ![](Resources/candidate_results.PNG)
 
 ## Election-Audit Summary
-In summary, this process was easy enough to audit the data.  It gives a quick and simple way to look at the data from a high level.  The code is written in such a way that it is not dependent on changing the counties or districts to fit data set of voters only the naming convention and location of the data set.  
+In summary, this process was easy enough to audit the data.  It gives a quick and simple way to look at the data from a high level.  The code is written in such a way that it is not dependent on updating the counties or districts to fit the data set of voters being analyzed, only the naming convention and location of the data set file.  
 
 Two proposed modifications:
 1.	Write the code so that it is not dependent on where the data is saved.
 2.	Write the code is such a way that it is not dependent on the naming convention of the file where the data set is saved.
 
-### Additional Analysis is Needed
-It is unknow if there was an analysis completed on how the votes were collected and entered into the system for analysis.  This type of analysis is critical to the validity of the audit and should be done in conjunction with the data analysis.
+#### Additional Analysis is Needed
+It is unknown if there was an analysis completed on how the votes were collected and entered into the system for analysis.  This type of analysis is critical to the validity of the audit and should be done in conjunction with the data analysis.
 
 It is also recommended that this process be used in conjunction with current auditing processes so that it can be tested for confidence levels over time.
